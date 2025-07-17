@@ -22,4 +22,4 @@ My Cybersecurity learning journey and project portfolio.
 - Learned the different career paths in cybersecurity
 
 ## Certificate:
-![certificate image](certificates/Google.Cybersecurity.Professional.Certificate.pdf)
+![certificate image](https://raw.githubusercontent.com/DAMIZZLLE/cybersecurity-portfolio/main/certificates/Google%20Cybersecurity%20Professional%20Certificate.pdf)
