@@ -16,4 +16,4 @@
 Covered foundational concepts of cybersecurity including threat actors, network defense, system protection techniques, and basic cybersecurity tools. Strong practical base in defense mechanisms and network safety strategies.
 
 **Badge Screenshot:**  
-![Badge](images/image1.png)
+![Badge](Screenshot (54).png)
